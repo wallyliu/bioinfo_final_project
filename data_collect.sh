@@ -13,7 +13,7 @@ do
 done
 
 # download Drosophia Sechellia data collected from Japan
-target_path=sechellia.japna
+target_path=sechellia.japan
 mkdir $target_path
 for num in {1973486..1973491}
 do
